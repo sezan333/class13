@@ -1,0 +1,311 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Allerta Stencil', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Michroma', sans-serif;
+
+ 
+
+/* background-color:#cff4fc ; */
+}
+/* .carousel-item img{
+    width: 100%;
+    height: 80vh;
+} */
+
+nav{
+   
+   
+    background-color: #7b1988b9;
+}
+
+.nav-item {
+    color: bg-info-subtle;
+}
+.btn-right .btn{
+    padding: 5px 30px;
+    border-radius: 8px 20px ; 
+}
+
+.btn-right :hover{
+    cursor: pointer;
+    background-color: rgba(16, 212, 238, 0.959);
+}
+
+.hero{
+ 
+    width: 100%;
+    background-color: #7b1988b9;
+  
+
+}
+.text{
+ 
+  padding: 80px 20px ;
+  
+    text-align: center;
+   
+    /* background-color: red; */
+}
+
+
+.text p{
+    height: 10px;
+    
+}
+
+.text button{
+    margin-top: 50px;
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(247, 120, 1);
+}
+
+.text .btn:hover{
+    cursor: pointer;
+    background-color: rgba(16, 212, 238, 0.959);
+
+}
+
+.service{
+    width: 100%;
+    text-align: center;
+
+    background-color: rgba(39, 161, 114, 0.808);
+}
+.service-item{
+    padding: 80PX 20PX ;
+      text-align: center;
+    
+
+}
+
+.service img{
+
+    margin-top: 50px;
+    height:100px;
+   
+}
+.row h1{
+  
+    margin-top: 20px;
+    font-size: 30px;
+}
+.row p{
+ 
+    margin-top: 20px;
+    font-size: 15px;
+}
+  /* service */
+
+  /* team strat */
+  .team{
+   
+    text-align: center;
+    width: 100%;
+    background-color: rgba(209, 235, 243, 0.918);
+}
+.our-team{
+    padding: 100px ;
+      text-align: center;
+
+}
+
+.team img{
+border-radius: 200px;
+
+    margin-top: 50px;
+    height:100px;
+   
+}
+.row h1{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.row p{
+    margin-top: 20px;
+    font-size: 15px;
+}
+  /* team End */
+
+
+  /* get Skill start */
+
+.skill{
+ width: 100%;
+    text-align: center;
+   
+    background-color: rgba(255, 255, 255, 0.918);
+}
+.get-skill{
+    padding: 100px ;
+      text-align: center;
+      width: 100%;
+}
+
+.skill img{
+border-radius: 200px;
+
+    margin-top: 50px;
+    height:100px;
+   
+}
+.row h1{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.row p{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+/* get-skill end */
+
+
+ /* PORTFOLIO strat */
+ .portfolio{
+    padding: 20px 20px;
+    width: 100%;
+    text-align: center;
+   
+    background-color: rgba(240, 192, 59, 0.781);
+}
+.our-portfolio{
+    padding: 20px 20px;
+text-align: center;
+
+
+}
+
+.portfolio img{
+
+background-color: red;
+
+    height:70%;
+    width: 80%;
+   
+}
+
+.row h1{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+.row p{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.row .port-btn .btn {
+    background-color: rgb(236, 112, 11);
+}
+.row .port-btn .btn :hover {
+    background-color: rgb(11, 236, 198);
+}
+
+
+
+/* PORTFOLIO end */
+
+/* about us strat */
+.About{
+    width: 100%;
+    text-align: center;
+
+    background-color: rgba(247, 14, 177, 0.781);
+}
+.about-us{
+    padding: 20px 20px;
+
+}
+
+.about-us img{
+
+    height:50%;
+    width: 50%;
+   
+}
+.About .col-md-4{
+    background-color: rgba(247, 14, 177, 0.781);
+}
+.About .col-md-4 img{
+    height: 100%;
+    width:  100%;
+/* margin-top: 30%; */
+}
+
+.card-body{
+    text-align: left;
+  outline: 0;
+ 
+    background-color: rgba(252, 4, 178, 0.438);
+}
+
+.card-body img{
+   
+  
+}
+
+.row h1{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+.row p{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.portfolio button {
+    background-color: rgb(6, 204, 145);
+}
+.portfolio button:hover {
+    background-color: rgb(4, 34, 63);
+}
+
+
+
+/* About us end */
+
+/* get in touch start */
+  
+.touch{
+    width: 100%;
+    text-align: center;
+
+    background-color: rgba(27, 15, 131, 0.781);
+}
+.get-touch{
+    padding: 60px 20px;
+
+}
+.touch button{
+    padding: 10px 50px;
+    background-color: rgb(11, 191, 236);
+}
+.touch button:hover{
+    background-color: rgb(217, 11, 236);
+}
+.touch input{
+    outline: 0;
+    border: 1px solid rgba(27, 15, 131, 0.781);
+    background-color: rgba(27, 15, 131, 0.781);
+}
+.mb-3 input::placeholder {
+    color: white;
+}
+
+.touch  textarea::placeholder {
+    color: white;
+}
+
+.touch textarea {
+    
+  
+    background-color: rgba(27, 15, 131, 0.781);
+    outline: 0;
+    border: 1px solid rgba(27, 15, 131, 0.781);
+}
